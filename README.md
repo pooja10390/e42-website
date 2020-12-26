@@ -7,3 +7,4 @@ min purpose is to create git we pages
 - open Git Bash
 - change directory to the folder you created enahnce42
 - create a directory e42-website using mkdir
+** Git  **
